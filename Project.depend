@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1554908631 source:u:\cs319\labs\project\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Vector08.h"
+	"Matrix08.h"
+	"Point.h"
+	"Triplet.h"
+	<cmath>
+	<ctime>
+	<stdlib.h>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1553614892 source:u:\cs319\labs\project\matrix08.cpp
+	<iostream>
+	"Vector08.h"
+	"Matrix08.h"
+
+1552992555 u:\cs319\labs\project\vector08.h
+
+1553614904 u:\cs319\labs\project\matrix08.h
+	"Vector08.h"
+
+1552992555 source:u:\cs319\labs\project\vector08.cpp
+	<iostream>
+	<math.h>
+	"Vector08.h"
+
+1553621368 u:\cs319\labs\project\point.h
+	<cstdlib>
+	<iostream>
+	<cmath>
+
+1553621405 source:u:\cs319\labs\project\point.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"point.h"
+
+1554202084 source:u:\cs319\labs\project\triplet.cpp
+	<iostream>
+	<iomanip>
+	"Vector08.h"
+	"Matrix08.h"
+	"Triplet.h"
+
+1554202092 u:\cs319\labs\project\triplet.h
+	"Vector08.h"
+	"Matrix08.h"
+
